@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!--App=АльфаЦЕНТР макет 80020;version=3.21.3;round=с переходящим остатком;hash=Oxwg9QHfesyGpBpA4CDLcX3H6s0_x003D_;GmtFrom=5;GmtTo=3-->
+<message class="80020" version="2" number="4682">
+	<datetime>
+		<timestamp>20211030081503</timestamp>
+		<daylightsavingtime>0</daylightsavingtime>
+		<day>20211029</day>
+	</datetime>
+	<sender>
+		<name>ООО "Ижэнергосбыт"</name>
+		<inn>1834024515</inn>
+	</sender>
+	<area timezone="1">
+		<inn>5600010901</inn>
+		<name>ООО "Ижэнергосбыт" (АО "ОЙЛГАЗТЭТ")</name>
+		<measuringpoint code="562080073213101" name="Яч.№1,Л-10кВ Бр-5">
+			<measuringchannel code="01" desc="счетчик, акт. прием">
+				<period start="0000" end="0030">
+					<value>950</value>
+				</period>
+				<period start="0030" end="0100">
+					<value>961</value>
+				</period>
+				<period start="0100" end="0130">
+					<value>982</value>
+				</period>
+				<period start="0130" end="0200">
+					<value>982</value>
+				</period>
+				<period start="0200" end="0230">
+					<value>992</value>
+				</period>
+				<period start="0230" end="0300">
+					<value>977</value>
+				</period>
+				<period start="0300" end="0330">
+					<value>948</value>
+				</period>
+				<period start="0330" end="0400">
+					<value>938</value>
+				</period>
+				<period start="0400" end="0430">
+					<value>953</value>
+				</period>
+				<period start="0430" end="0500">
+					<value>949</value>
+				</period>
+				<period start="0500" end="0530">
+					<value>951</value>
+				</period>
+				<period start="0530" end="0600">
+					<value>946</value>
+				</period>
+				<period start="0600" end="0630">
+					<value>946</value>
+				</period>
+				<period start="0630" end="0700">
+					<value>940</value>
+				</period>
+				<period start="0700" end="0730">
+					<value>920</value>
+				</period>
+				<period start="0730" end="0800">
+					<value>951</value>
+				</period>
+				<period start="0800" end="0830">
+					<value>962</value>
+				</period>
+				<period start="0830" end="0900">
+					<value>961</value>
+				</period>
+				<period start="0900" end="0930">
+					<value>938</value>
+				</period>
+				<period start="0930" end="1000">
+					<value>949</value>
+				</period>
+				<period start="1000" end="1030">
+					<value>945</value>
+				</period>
+				<period start="1030" end="1100">
+					<value>928</value>
+				</period>
+				<period start="1100" end="1130">
+					<value>923</value>
+				</period>
+				<period start="1130" end="1200">
+					<value>916</value>
+				</period>
+				<period start="1200" end="1230">
+					<value>928</value>
+				</period>
+				<period start="1230" end="1300">
+					<value>925</value>
+				</period>
+				<period start="1300" end="1330">
+					<value>944</value>
+				</period>
+				<period start="1330" end="1400">
+					<value>945</value>
+				</period>
+				<period start="1400" end="1430">
+					<value>967</value>
+				</period>
+				<period start="1430" end="1500">
+					<value>978</value>
+				</period>
+				<period start="1500" end="1530">
+					<value>977</value>
+				</period>
+				<period start="1530" end="1600">
+					<value>960</value>
+				</period>
+				<period start="1600" end="1630">
+					<value>946</value>
+				</period>
+				<period start="1630" end="1700">
+					<value>926</value>
+				</period>
+				<period start="1700" end="1730">
+					<value>880</value>
+				</period>
+				<period start="1730" end="1800">
+					<value>799</value>
+				</period>
+				<period start="1800" end="1830">
+					<value>807</value>
+				</period>
+				<period start="1830" end="1900">
+					<value>820</value>
+				</period>
+				<period start="1900" end="1930">
+					<value>831</value>
+				</period>
+				<period start="1930" end="2000">
+					<value>834</value>
+				</period>
+				<period start="2000" end="2030">
+					<value>831</value>
+				</period>
+				<period start="2030" end="2100">
+					<value>857</value>
+				</period>
+				<period start="2100" end="2130">
+					<value>840</value>
+				</period>
+				<period start="2130" end="2200">
+					<value>844</value>
+				</period>
+				<period start="2200" end="2230">
+					<value>831</value>
+				</period>
+				<period start="2230" end="2300">
+					<value>821</value>
+				</period>
+				<period start="2300" end="2330">
+					<value>843</value>
+				</period>
+				<period start="2330" end="0000">
+					<value>860</value>
+				</period>
+			</measuringchannel>
+			<measuringchannel code="03" desc="счетчик, реакт. прием">
+				<period start="0000" end="0030">
+					<value>304</value>
+				</period>
+				<period start="0030" end="0100">
+					<value>292</value>
+				</period>
+				<period start="0100" end="0130">
+					<value>295</value>
+				</period>
+				<period start="0130" end="0200">
+					<value>296</value>
+				</period>
+				<period start="0200" end="0230">
+					<value>297</value>
+				</period>
+				<period start="0230" end="0300">
+					<value>300</value>
+				</period>
+				<period start="0300" end="0330">
+					<value>293</value>
+				</period>
+				<period start="0330" end="0400">
+					<value>283</value>
+				</period>
+				<period start="0400" end="0430">
+					<value>286</value>
+				</period>
+				<period start="0430" end="0500">
+					<value>288</value>
+				</period>
+				<period start="0500" end="0530">
+					<value>288</value>
+				</period>
+				<period start="0530" end="0600">
+					<value>288</value>
+				</period>
+				<period start="0600" end="0630">
+					<value>287</value>
+				</period>
+				<period start="0630" end="0700">
+					<value>279</value>
+				</period>
+				<period start="0700" end="0730">
+					<value>273</value>
+				</period>
+				<period start="0730" end="0800">
+					<value>283</value>
+				</period>
+				<period start="0800" end="0830">
+					<value>285</value>
+				</period>
+				<period start="0830" end="0900">
+					<value>273</value>
+				</period>
+				<period start="0900" end="0930">
+					<value>274</value>
+				</period>
+				<period start="0930" end="1000">
+					<value>282</value>
+				</period>
+				<period start="1000" end="1030">
+					<value>281</value>
+				</period>
+				<period start="1030" end="1100">
+					<value>279</value>
+				</period>
+				<period start="1100" end="1130">
+					<value>269</value>
+				</period>
+				<period start="1130" end="1200">
+					<value>276</value>
+				</period>
+				<period start="1200" end="1230">
+					<value>282</value>
+				</period>
+				<period start="1230" end="1300">
+					<value>277</value>
+				</period>
+				<period start="1300" end="1330">
+					<value>282</value>
+				</period>
+				<period start="1330" end="1400">
+					<value>282</value>
+				</period>
+				<period start="1400" end="1430">
+					<value>283</value>
+				</period>
+				<period start="1430" end="1500">
+					<value>287</value>
+				</period>
+				<period start="1500" end="1530">
+					<value>294</value>
+				</period>
+				<period start="1530" end="1600">
+					<value>290</value>
+				</period>
+				<period start="1600" end="1630">
+					<value>285</value>
+				</period>
+				<period start="1630" end="1700">
+					<value>271</value>
+				</period>
+				<period start="1700" end="1730">
+					<value>261</value>
+				</period>
+				<period start="1730" end="1800">
+					<value>242</value>
+				</period>
+				<period start="1800" end="1830">
+					<value>247</value>
+				</period>
+				<period start="1830" end="1900">
+					<value>246</value>
+				</period>
+				<period start="1900" end="1930">
+					<value>257</value>
+				</period>
+				<period start="1930" end="2000">
+					<value>258</value>
+				</period>
+				<period start="2000" end="2030">
+					<value>249</value>
+				</period>
+				<period start="2030" end="2100">
+					<value>255</value>
+				</period>
+				<period start="2100" end="2130">
+					<value>258</value>
+				</period>
+				<period start="2130" end="2200">
+					<value>259</value>
+				</period>
+				<period start="2200" end="2230">
+					<value>267</value>
+				</period>
+				<period start="2230" end="2300">
+					<value>264</value>
+				</period>
+				<period start="2300" end="2330">
+					<value>273</value>
+				</period>
+				<period start="2330" end="0000">
+					<value>279</value>
+				</period>
+			</measuringchannel>
+		</measuringpoint>
+		<measuringpoint code="564130032113101" name="ПС &quot;Азаматово&quot; ф.1">
+			<measuringchannel code="01" desc="счетчик, акт. прием">
+				<period start="0000" end="0030">
+					<value>770</value>
+				</period>
+				<period start="0030" end="0100">
+					<value>772</value>
+				</period>
+				<period start="0100" end="0130">
+					<value>774</value>
+				</period>
+				<period start="0130" end="0200">
+					<value>777</value>
+				</period>
+				<period start="0200" end="0230">
+					<value>779</value>
+				</period>
+				<period start="0230" end="0300">
+					<value>789</value>
+				</period>
+				<period start="0300" end="0330">
+					<value>773</value>
+				</period>
+				<period start="0330" end="0400">
+					<value>774</value>
+				</period>
+				<period start="0400" end="0430">
+					<value>741</value>
+				</period>
+				<period start="0430" end="0500">
+					<value>735</value>
+				</period>
+				<period start="0500" end="0530">
+					<value>756</value>
+				</period>
+				<period start="0530" end="0600">
+					<value>769</value>
+				</period>
+				<period start="0600" end="0630">
+					<value>784</value>
+				</period>
+				<period start="0630" end="0700">
+					<value>778</value>
+				</period>
+				<period start="0700" end="0730">
+					<value>883</value>
+				</period>
+				<period start="0730" end="0800">
+					<value>882</value>
+				</period>
+				<period start="0800" end="0830">
+					<value>858</value>
+				</period>
+				<period start="0830" end="0900">
+					<value>793</value>
+				</period>
+				<period start="0900" end="0930">
+					<value>758</value>
+				</period>
+				<period start="0930" end="1000">
+					<value>802</value>
+				</period>
+				<period start="1000" end="1030">
+					<value>793</value>
+				</period>
+				<period start="1030" end="1100">
+					<value>795</value>
+				</period>
+				<period start="1100" end="1130">
+					<value>795</value>
+				</period>
+				<period start="1130" end="1200">
+					<value>799</value>
+				</period>
+				<period start="1200" end="1230">
+					<value>800</value>
+				</period>
+				<period start="1230" end="1300">
+					<value>803</value>
+				</period>
+				<period start="1300" end="1330">
+					<value>821</value>
+				</period>
+				<period start="1330" end="1400">
+					<value>830</value>
+				</period>
+				<period start="1400" end="1430">
+					<value>811</value>
+				</period>
+				<period start="1430" end="1500">
+					<value>815</value>
+				</period>
+				<period start="1500" end="1530">
+					<value>809</value>
+				</period>
+				<period start="1530" end="1600">
+					<value>793</value>
+				</period>
+				<period start="1600" end="1630">
+					<value>756</value>
+				</period>
+				<period start="1630" end="1700">
+					<value>801</value>
+				</period>
+				<period start="1700" end="1730">
+					<value>803</value>
+				</period>
+				<period start="1730" end="1800">
+					<value>826</value>
+				</period>
+				<period start="1800" end="1830">
+					<value>820</value>
+				</period>
+				<period start="1830" end="1900">
+					<value>789</value>
+				</period>
+				<period start="1900" end="1930">
+					<value>794</value>
+				</period>
+				<period start="1930" end="2000">
+					<value>823</value>
+				</period>
+				<period start="2000" end="2030">
+					<value>825</value>
+				</period>
+				<period start="2030" end="2100">
+					<value>812</value>
+				</period>
+				<period start="2100" end="2130">
+					<value>707</value>
+				</period>
+				<period start="2130" end="2200">
+					<value>704</value>
+				</period>
+				<period start="2200" end="2230">
+					<value>704</value>
+				</period>
+				<period start="2230" end="2300">
+					<value>705</value>
+				</period>
+				<period start="2300" end="2330">
+					<value>693</value>
+				</period>
+				<period start="2330" end="0000">
+					<value>691</value>
+				</period>
+			</measuringchannel>
+			<measuringchannel code="03" desc="счетчик, реакт. прием">
+				<period start="0000" end="0030">
+					<value>306</value>
+				</period>
+				<period start="0030" end="0100">
+					<value>302</value>
+				</period>
+				<period start="0100" end="0130">
+					<value>301</value>
+				</period>
+				<period start="0130" end="0200">
+					<value>304</value>
+				</period>
+				<period start="0200" end="0230">
+					<value>303</value>
+				</period>
+				<period start="0230" end="0300">
+					<value>311</value>
+				</period>
+				<period start="0300" end="0330">
+					<value>305</value>
+				</period>
+				<period start="0330" end="0400">
+					<value>299</value>
+				</period>
+				<period start="0400" end="0430">
+					<value>290</value>
+				</period>
+				<period start="0430" end="0500">
+					<value>290</value>
+				</period>
+				<period start="0500" end="0530">
+					<value>297</value>
+				</period>
+				<period start="0530" end="0600">
+					<value>300</value>
+				</period>
+				<period start="0600" end="0630">
+					<value>307</value>
+				</period>
+				<period start="0630" end="0700">
+					<value>302</value>
+				</period>
+				<period start="0700" end="0730">
+					<value>340</value>
+				</period>
+				<period start="0730" end="0800">
+					<value>341</value>
+				</period>
+				<period start="0800" end="0830">
+					<value>334</value>
+				</period>
+				<period start="0830" end="0900">
+					<value>302</value>
+				</period>
+				<period start="0900" end="0930">
+					<value>297</value>
+				</period>
+				<period start="0930" end="1000">
+					<value>318</value>
+				</period>
+				<period start="1000" end="1030">
+					<value>312</value>
+				</period>
+				<period start="1030" end="1100">
+					<value>314</value>
+				</period>
+				<period start="1100" end="1130">
+					<value>311</value>
+				</period>
+				<period start="1130" end="1200">
+					<value>316</value>
+				</period>
+				<period start="1200" end="1230">
+					<value>317</value>
+				</period>
+				<period start="1230" end="1300">
+					<value>315</value>
+				</period>
+				<period start="1300" end="1330">
+					<value>324</value>
+				</period>
+				<period start="1330" end="1400">
+					<value>327</value>
+				</period>
+				<period start="1400" end="1430">
+					<value>315</value>
+				</period>
+				<period start="1430" end="1500">
+					<value>316</value>
+				</period>
+				<period start="1500" end="1530">
+					<value>321</value>
+				</period>
+				<period start="1530" end="1600">
+					<value>313</value>
+				</period>
+				<period start="1600" end="1630">
+					<value>301</value>
+				</period>
+				<period start="1630" end="1700">
+					<value>315</value>
+				</period>
+				<period start="1700" end="1730">
+					<value>320</value>
+				</period>
+				<period start="1730" end="1800">
+					<value>325</value>
+				</period>
+				<period start="1800" end="1830">
+					<value>324</value>
+				</period>
+				<period start="1830" end="1900">
+					<value>311</value>
+				</period>
+				<period start="1900" end="1930">
+					<value>316</value>
+				</period>
+				<period start="1930" end="2000">
+					<value>326</value>
+				</period>
+				<period start="2000" end="2030">
+					<value>321</value>
+				</period>
+				<period start="2030" end="2100">
+					<value>316</value>
+				</period>
+				<period start="2100" end="2130">
+					<value>279</value>
+				</period>
+				<period start="2130" end="2200">
+					<value>278</value>
+				</period>
+				<period start="2200" end="2230">
+					<value>283</value>
+				</period>
+				<period start="2230" end="2300">
+					<value>282</value>
+				</period>
+				<period start="2300" end="2330">
+					<value>279</value>
+				</period>
+				<period start="2330" end="0000">
+					<value>281</value>
+				</period>
+			</measuringchannel>
+		</measuringpoint>
+	</area>
+</message>

@@ -1,0 +1,17 @@
+11.03 18:08:28 >	[LOG] Session start
+11.03 18:08:28 >	[fMain] Argument count - 1
+11.03 18:08:28 >	[fMain] Command: ADDFILL:80020:5600010901:564130032113101:01:03:1:AUTO:-2133
+11.03 18:08:28 >	[fMain] -------------------
+11.03 18:08:28 >	[fMain] Argument #1: 1
+11.03 18:08:28 >	[fXML80020Injection] File: 80020_1834024515_20211031_4690_5600010900.xml
+11.03 18:08:28 >	[fCheckXML80020] File: 80020_1834024515_20211031_4690_5600010900.xml
+11.03 18:08:28 >	[fCheckXML80020] File name check: OK
+11.03 18:08:28 >	[fCheckXML80020] File internal header: OK (Class=80020; Version=2; Date=20211031)
+11.03 18:08:28 >	[fResolveCommand] Operation [ADDFILL] by command: [ADDFILL:80020:5600010901:564130032113101:01:03:1:AUTO:-2133]
+11.03 18:08:28 >	[fResolveCommand] fHourStringConvertToIntArray > Autoextending from 24 to 48 applied!
+11.03 18:08:28 >	[fPrepareInjectValues] Injection: -107 -106 -107 -107 -106 -107 -107 -106 -107 -107 -106 -107 -106 -107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -107 -106 -107 -107 -106 -107 // SUM=-2133 (DIFF=0)
+11.03 18:08:28 >	[fGetWorkNode] Locked main channel node: <//area[inn='5600010901']/measuringpoint[@code='564130032113101']/measuringchannel[@code='01']>
+11.03 18:08:28 >	[fGetWorkNode] Locked linked channel node: <//area[inn='5600010901']/measuringpoint[@code='564130032113101']/measuringchannel[@code='03']>
+11.03 18:08:28 >	[fApplyInjectionToWorkNode] Main injection = -2133; Linked injection = -846
+11.03 18:08:28 >	[fXML80020Injection] Injection done!
+11.03 18:08:28 >	[LOG] Session end
