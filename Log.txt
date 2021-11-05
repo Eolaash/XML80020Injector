@@ -1,17 +1,46 @@
-11.05 20:58:04 > 	[LOG] Session start
-11.05 20:58:04 > 	[XML80020Injector.fMain] Argument count - 1
-11.05 20:58:04 > 	[XML80020Injector.fMain] Command: ADDFILL:80020:5600010901:564130032113101:01:03:1:AUTO:-2133
-11.05 20:58:04 > 	[XML80020Injector.fMain] -------------------
-11.05 20:58:04 > 	[XML80020Injector.fMain] Argument #1: 1
-11.05 20:58:04 > 	[fXML80020Injection] File: 80020_1834024515_20211031_4690_5600010900.xml
-11.05 20:58:04 > 	[fCheckXML80020] File: 80020_1834024515_20211031_4690_5600010900.xml
-11.05 20:58:04 > 	[fCheckXML80020] File name check: OK
-11.05 20:58:04 > 	[fCheckXML80020] File internal header: OK (Class=80020; Version=2; Date=20211031)
-11.05 20:58:04 > 	[fResolveCommand] Operation [ADDFILL] by command: [ADDFILL:80020:5600010901:564130032113101:01:03:1:AUTO:-2133]
-11.05 20:58:04 > 	[fResolveCommand] fHourStringConvertToIntArray > Autoextending from 24 to 48 applied!
-11.05 20:58:04 > 	[fPrepareInjectValues] Injection: -107 -106 -107 -107 -106 -107 -107 -106 -107 -107 -106 -107 -106 -107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -107 -106 -107 -107 -106 -107 // SUM=-2133 (DIFF=0)
-11.05 20:58:04 > 	[fGetWorkNodes] Locked main channel node: <//area[inn='5600010901']/measuringpoint[@code='564130032113101']/measuringchannel[@code='01']>
-11.05 20:58:04 > 	[fGetWorkNodes] Locked linked channel node: <//area[inn='5600010901']/measuringpoint[@code='564130032113101']/measuringchannel[@code='03']>
-11.05 20:58:04 > 	[fApplyInjectionToWorkNode] Main injection = -2133; Linked injection = -840
-11.05 20:58:04 > 	[fXML80020Injection] Injection done!
-11.05 20:58:04 > 	[LOG] Session end
+11.06 02:33:17 > 	[LOG] Session start
+11.06 02:33:17 > 	[XML80020Injector.fMain] Argument count - 1
+11.06 02:33:17 > 	[fResolveCommand] Operation [ADDFILL] by command: [ADDFILL:80020:5600010901:564130032113101:01:03:1:AUTO:1000]
+11.06 02:33:17 > 	[fResolveCommandListToContext] [#1] Command accepted: ADDFILL:80020:5600010901:564130032113101:01:03:1:AUTO:1000
+11.06 02:33:17 > 	[fResolveCommand] Operation [ADDFILL] by command: [ADDFILL:80020:5600010901:564130032113101:01:03:1:111111100000111000000111:555]
+11.06 02:33:17 > 	[fResolveCommandListToContext] [#2] Command accepted: ADDFILL:80020:5600010901:564130032113101:01:03:1:111111100000111000000111:555
+11.06 02:33:17 > 	[fResolveCommand] Operation [ADDFILL] by command: [ADDFILL:80020:5600010901:564130032113101:01:03:1:11111110000011000000111:222]
+11.06 02:33:17 > 	[fResolveCommandListToContext] [#3] Command accepted: ADDFILL:80020:5600010901:564130032113101:01:03:1:11111110000011000000111:222
+11.06 02:33:17 > 	[XML80020Injector.fMain] ###########################################
+11.06 02:33:17 > 	[XML80020Injector.fMain] Argument #1: 1
+11.06 02:33:17 > 	[fXML80020Injection] File: 80020_1834024515_20211031_4690_5600010900.xml
+11.06 02:33:17 > 	[fCheckXML80020] File: 80020_1834024515_20211031_4690_5600010900.xml
+11.06 02:33:17 > 	[fCheckXML80020] File name check: OK
+11.06 02:33:17 > 	[fCheckXML80020] File internal header: OK (Class=80020; Version=2; Date=20211031)
+11.06 02:33:17 > 	[fXML80020Injection] -------------------------------------------
+11.06 02:33:17 > 	[fXML80020Injection] Command #1 executing...
+11.06 02:33:17 > 	[fGenerateHalfHourArray] Settings: tAffectString=[AUTO] tDate=[31.10.2021]
+11.06 02:33:17 > 	[fGenerateHalfHourArray] AUTO hours set (by SOPeaks): 111111100000000000000111
+11.06 02:33:17 > 	[fGenerateHalfHourArray] fHourStringConvertToIntArray > Autoextending from 24 to 48 applied!
+11.06 02:33:17 > 	[fPrepareInjectValues] Injection:  50 50 50 50 50 50 50 50 50 50 50 50 50 50 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 50 50 50 50 50 50 // SUM=1000 (DIFF=0)
+11.06 02:33:17 > 	[fGetWorkNodes] Locked main channel node: <//area[inn='5600010901']/measuringpoint[@code='564130032113101']/measuringchannel[@code='01']>
+11.06 02:33:17 > 	[fGetWorkNodes] Locked linked channel node: <//area[inn='5600010901']/measuringpoint[@code='564130032113101']/measuringchannel[@code='03']>
+11.06 02:33:17 > 	[fApplyInjectionToWorkNode] Main injection = 1000; Linked injection = 392
+11.06 02:33:17 > 	[fXML80020Injection] Injection done!
+11.06 02:33:17 > 	[fXML80020Injection] Command #1 finished.
+11.06 02:33:17 > 	[fXML80020Injection] -------------------------------------------
+11.06 02:33:17 > 	[fXML80020Injection] Command #2 executing...
+11.06 02:33:17 > 	[fGenerateHalfHourArray] Settings: tAffectString=[111111100000111000000111] tDate=[31.10.2021]
+11.06 02:33:17 > 	[fGenerateHalfHourArray] fHourStringConvertToIntArray > Autoextending from 24 to 48 applied!
+11.06 02:33:17 > 	[fPrepareInjectValues] Injection:  21 22 21 21 22 21 21 22 21 21 22 21 22 21 0 0 0 0 0 0 0 0 0 0 21 22 21 21 22 21 0 0 0 0 0 0 0 0 0 0 0 0 21 22 21 21 22 21 // SUM=555 (DIFF=0)
+11.06 02:33:17 > 	[fGetWorkNodes] Locked main channel node: <//area[inn='5600010901']/measuringpoint[@code='564130032113101']/measuringchannel[@code='01']>
+11.06 02:33:17 > 	[fGetWorkNodes] Locked linked channel node: <//area[inn='5600010901']/measuringpoint[@code='564130032113101']/measuringchannel[@code='03']>
+11.06 02:33:17 > 	[fApplyInjectionToWorkNode] Main injection = 555; Linked injection = 214
+11.06 02:33:17 > 	[fXML80020Injection] Injection done!
+11.06 02:33:17 > 	[fXML80020Injection] Command #2 finished.
+11.06 02:33:17 > 	[fXML80020Injection] -------------------------------------------
+11.06 02:33:17 > 	[fXML80020Injection] Command #3 executing...
+11.06 02:33:17 > 	[fGenerateHalfHourArray] Settings: tAffectString=[11111110000011000000111] tDate=[31.10.2021]
+11.06 02:33:17 > 	[fGenerateHalfHourArray] fHourStringConvertToIntArray > Length failed [Len=23] -> autofix applied!
+11.06 02:33:17 > 	[fPrepareInjectValues] Injection:  5 4 5 4 5 5 4 5 5 4 5 4 5 5 4 5 5 4 5 4 5 5 4 5 5 4 5 4 5 5 4 5 5 4 5 4 5 5 4 5 5 4 5 4 5 5 4 5 // SUM=222 (DIFF=0)
+11.06 02:33:17 > 	[fGetWorkNodes] Locked main channel node: <//area[inn='5600010901']/measuringpoint[@code='564130032113101']/measuringchannel[@code='01']>
+11.06 02:33:17 > 	[fGetWorkNodes] Locked linked channel node: <//area[inn='5600010901']/measuringpoint[@code='564130032113101']/measuringchannel[@code='03']>
+11.06 02:33:17 > 	[fApplyInjectionToWorkNode] Main injection = 222; Linked injection = 96
+11.06 02:33:17 > 	[fXML80020Injection] Injection done!
+11.06 02:33:17 > 	[fXML80020Injection] Command #3 finished.
+11.06 02:33:17 > 	[LOG] Session end
