@@ -310,46 +310,46 @@
 		<measuringpoint code="564130032113101" name="ПС &quot;Азаматово&quot; ф.1">
 			<measuringchannel code="01" desc="счетчик, акт. прием">
 				<period start="0000" end="0030">
-					<value>670</value>
+					<value>135</value>
 				</period>
 				<period start="0030" end="0100">
-					<value>657</value>
+					<value>127</value>
 				</period>
 				<period start="0100" end="0130">
-					<value>661</value>
+					<value>126</value>
 				</period>
 				<period start="0130" end="0200">
-					<value>653</value>
+					<value>118</value>
 				</period>
 				<period start="0200" end="0230">
-					<value>674</value>
+					<value>144</value>
 				</period>
 				<period start="0230" end="0300">
-					<value>695</value>
+					<value>160</value>
 				</period>
 				<period start="0300" end="0330">
-					<value>701</value>
+					<value>166</value>
 				</period>
 				<period start="0330" end="0400">
-					<value>700</value>
+					<value>170</value>
 				</period>
 				<period start="0400" end="0430">
-					<value>677</value>
+					<value>142</value>
 				</period>
 				<period start="0430" end="0500">
-					<value>688</value>
+					<value>153</value>
 				</period>
 				<period start="0500" end="0530">
-					<value>636</value>
+					<value>106</value>
 				</period>
 				<period start="0530" end="0600">
-					<value>642</value>
+					<value>107</value>
 				</period>
 				<period start="0600" end="0630">
-					<value>628</value>
+					<value>98</value>
 				</period>
 				<period start="0630" end="0700">
-					<value>667</value>
+					<value>132</value>
 				</period>
 				<period start="0700" end="0730">
 					<value>803</value>
@@ -436,66 +436,66 @@
 					<value>883</value>
 				</period>
 				<period start="2100" end="2130">
-					<value>783</value>
+					<value>248</value>
 				</period>
 				<period start="2130" end="2200">
-					<value>780</value>
+					<value>250</value>
 				</period>
 				<period start="2200" end="2230">
-					<value>779</value>
+					<value>244</value>
 				</period>
 				<period start="2230" end="2300">
-					<value>779</value>
+					<value>244</value>
 				</period>
 				<period start="2300" end="2330">
-					<value>778</value>
+					<value>248</value>
 				</period>
 				<period start="2330" end="0000">
-					<value>772</value>
+					<value>237</value>
 				</period>
 			</measuringchannel>
 			<measuringchannel code="03" desc="счетчик, реакт. прием">
 				<period start="0000" end="0030">
-					<value>267</value>
+					<value>54</value>
 				</period>
 				<period start="0030" end="0100">
-					<value>263</value>
+					<value>51</value>
 				</period>
 				<period start="0100" end="0130">
-					<value>266</value>
+					<value>51</value>
 				</period>
 				<period start="0130" end="0200">
-					<value>261</value>
+					<value>47</value>
 				</period>
 				<period start="0200" end="0230">
-					<value>266</value>
+					<value>56</value>
 				</period>
 				<period start="0230" end="0300">
-					<value>276</value>
+					<value>64</value>
 				</period>
 				<period start="0300" end="0330">
-					<value>282</value>
+					<value>67</value>
 				</period>
 				<period start="0330" end="0400">
-					<value>275</value>
+					<value>67</value>
 				</period>
 				<period start="0400" end="0430">
-					<value>269</value>
+					<value>56</value>
 				</period>
 				<period start="0430" end="0500">
-					<value>277</value>
+					<value>62</value>
 				</period>
 				<period start="0500" end="0530">
-					<value>255</value>
+					<value>42</value>
 				</period>
 				<period start="0530" end="0600">
-					<value>258</value>
+					<value>43</value>
 				</period>
 				<period start="0600" end="0630">
-					<value>252</value>
+					<value>39</value>
 				</period>
 				<period start="0630" end="0700">
-					<value>261</value>
+					<value>51</value>
 				</period>
 				<period start="0700" end="0730">
 					<value>317</value>
@@ -582,22 +582,22 @@
 					<value>339</value>
 				</period>
 				<period start="2100" end="2130">
-					<value>304</value>
+					<value>96</value>
 				</period>
 				<period start="2130" end="2200">
-					<value>300</value>
+					<value>96</value>
 				</period>
 				<period start="2200" end="2230">
-					<value>299</value>
+					<value>94</value>
 				</period>
 				<period start="2230" end="2300">
-					<value>303</value>
+					<value>95</value>
 				</period>
 				<period start="2300" end="2330">
-					<value>301</value>
+					<value>96</value>
 				</period>
 				<period start="2330" end="0000">
-					<value>300</value>
+					<value>92</value>
 				</period>
 			</measuringchannel>
 		</measuringpoint>
